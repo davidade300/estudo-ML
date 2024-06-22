@@ -1,0 +1,4 @@
+ Inteligencia Artificial != Inteligencia computacional
+ 
+ classificacao -> rotulos
+ regressao -> numeros
