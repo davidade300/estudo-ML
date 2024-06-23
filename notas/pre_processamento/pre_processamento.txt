@@ -1,0 +1,25 @@
+- é necessário fazer a correção de dados incorretos
+- tratar valores faltantes
+
+variaveis:
+    -categoricas -> (strings):
+
+        Nominal:
+            Dados não mensuráveis
+            Ex.: Sem ordenação -> cor dos olhos, gênero, id, nome
+        
+        Ordinal:
+            Categorização sob uma ordenação
+            Ex.: Tamanhos -> P, M, G
+
+    Numéricas:
+
+        Continua:
+             numeros reais (2.7, etc)
+             Ex.:Temperatura, altura, peso, salario
+        
+        Discreta:
+            Conjunto de valores finitos(inteiros/categorias)
+            Contagem de alguma coisa
+
+        
