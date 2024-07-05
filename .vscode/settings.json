@@ -2,5 +2,7 @@
     "window.zoomLevel": 1,
     "window.zoomPerWindow": false,
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
-    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine"
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "editor.fontSize": 22,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace "
 }
