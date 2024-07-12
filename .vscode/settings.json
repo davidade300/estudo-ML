@@ -4,5 +4,7 @@
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
     "editor.fontSize": 20,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace "
+    "editor.fontFamily": "Consolas, 'Courier New', monospace ",
+    "editor.guides.indentation": false,
+    //"editor.fontFamily": "Menlo",
 }
