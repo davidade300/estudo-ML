@@ -4,7 +4,21 @@
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
     "editor.fontSize": 20,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace ",
     "editor.guides.indentation": false,
-    //"editor.fontFamily": "Menlo",
+    "editor.fontFamily": "Monospace, 'Monospace', Monospace",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.colorDecorators": true,
+    "editor.defaultColorDecorators": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.guides.bracketPairs": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "punctuation.definition",
+                "settings": {
+                    "foreground": "#ffffff"
+                }
+            }
+        ]
+    },
 }
