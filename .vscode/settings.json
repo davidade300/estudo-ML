@@ -1,72 +1,8 @@
 {
-    "window.zoomLevel": 1,
-    "editor.fontSize": 20,
-    "editor.guides.indentation": false,
-    "editor.fontFamily": "Monospace, 'Monospace', Monospace",
-    "editor.bracketPairColorization.enabled": false,
-    "editor.colorDecorators": true,
-    "editor.defaultColorDecorators": false,
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
-    "editor.guides.bracketPairs": false,
-    "explorer.compactFolders": false,
-    "workbench.activityBar.location": "top",
-    "window.commandCenter": false,
-    "python.defaultInterpreterPath": "venv/bin/python",
+    "editor.fontSize": 18,
+    "notebook.output.fontFamily": "Ubuntu Mono",
     "notebook.markup.fontSize": 20,
-    "explorer.confirmPasteNative": false,
-    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "Ubuntu Mono, 'Ubunt Mono', Ubunto Mono",
     "editor.semanticHighlighting.enabled": true,
-    "workbench.colorTheme": "Sublime Mariana ⎯ Semantic",
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "punctuation.definition",
-                "settings": {
-                    "foreground": "#ffffff"
-                }
-            },
-            {
-                "scope": "constant.character",
-                "settings": {
-                    "foreground": "#ffffff"
-                }
-            },
-            {
-                "scope": "constant.language.python",
-                "settings": {
-                    "foreground": "#EC5F66"
-                }
-            },
-            {
-                "scope": "punctuation.definition.decorator",
-                "settings": {
-                    "foreground": "#37B6B4"
-                }
-            },
-            {
-                "scope": [
-                    "variable.parameter.function-call"
-                ],
-                "settings": {
-                    "foreground": "#F9AE58"
-                }
-            }
-        ]
-    },
-    "editor.fontWeight": "450",
-    "editor.fontLigatures": true,
-    "editor.semanticTokenColorCustomizations": {
-        "enabled": true,
-        "rules": {
-            "character": {
-                "foreground": "#ffffff"
-            },
-            "keyword": {
-                "foreground": "#EC5F66"
-            },
-            "variable.parameter.function-call": {
-                "foreground": "#F9AE58"
-            }
-        }
-    }
+    "python.defaultInterpreterPath": "venv/bin/python",
 }

@@ -28,5 +28,11 @@ def show_subpath(subpath):
     return f'Subpath {escape(subpath)}'
 
 
+class pessoa:
+    def __init__(self, nome) -> None:
+        self.nome = nome
+
+
+a = pessoa("A")
 if __name__ == '__main__':
     app.run(debug=True)
