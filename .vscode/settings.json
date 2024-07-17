@@ -1,8 +1,4 @@
 {
-    "editor.fontSize": 18,
-    "notebook.output.fontFamily": "Ubuntu Mono",
-    "notebook.markup.fontSize": 20,
-    "editor.fontFamily": "Ubuntu Mono, 'Ubunt Mono', Ubunto Mono",
-    "editor.semanticHighlighting.enabled": true,
-    "python.defaultInterpreterPath": "venv/bin/python",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Consolas, 'Consolas', Consolas"
 }
