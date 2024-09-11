@@ -6,3 +6,6 @@ census.pkl
 credit.pkl
 /imagens
 Coursera_ML/
+*.png
+*.pkl
+*.csv
