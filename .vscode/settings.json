@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 20,
-    "editor.fontFamily": "Anonymous Pro Bold",
-    "notebook.output.fontFamily": "Anonymous Pro Bold"
+  "editor.fontSize": 20
+  // "editor.fontFamily": "Anonymous Pro Bold",
+  // "notebook.output.fontFamily": "Anonymous Pro Bold"
 }
